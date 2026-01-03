@@ -34,8 +34,8 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 ## Project Structure
  - project-root/
  - ├── index.html          
-├── styles/
-│   └── style.css      
+ - ├── styles/
+ - │   └── style.css      
 ├── Assets/
 │   ├── wc-mini.png     
 │   ├── wc-big.png      
