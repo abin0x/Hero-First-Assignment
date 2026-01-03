@@ -36,7 +36,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
  - ├── index.html          
  - ├── styles/
  - │   └── style.css      
- - ├── Assets/
+├── Assets/
 │   ├── wc-mini.png     
 │   ├── wc-big.png      
 │   └── avatar.png      
@@ -62,7 +62,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 
 ## Live Demo
 
-(After deployment, add your live URL here)
+[text](https://abin0x.github.io/Hero-First-Assignment/)
 
 ## Credits
 
