@@ -36,7 +36,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
  - ├── index.html          
  - ├── styles/
  - │   └── style.css      
-├── Assets/
+ - ├── Assets/
 │   ├── wc-mini.png     
 │   ├── wc-big.png      
 │   └── avatar.png      
