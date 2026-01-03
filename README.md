@@ -41,3 +41,37 @@ project-root/
 │   ├── wc-big.png      # Large image for focus/hero section
 │   └── avatar.png      # User avatar for reviews (used multiple times)
 └── README.md           # This file
+
+
+## How to Use
+
+1. Clone or download the repository.
+2. Open `index.html` in your browser to view the site locally.
+3. Customize the content:
+   - Replace placeholder text (e.g., "Mahmudul", hero title, reviews)
+   - Update images in the `Assets/` folder
+   - Modify styles in `styles/style.css`
+4. Deploy to any static hosting service (Netlify, Vercel, GitHub Pages, etc.)
+
+## Customization Tips
+
+- Change the primary color by updating the `--primary-color` variable (if defined) or relevant classes in `style.css`
+- Replace placeholder images with your own screenshots or photos
+- Update the contact form to connect to a backend (e.g., Formspree, Netlify Forms) for functionality
+- Add more sections or modify layout as needed
+
+## Live Demo
+
+(After deployment, add your live URL here)
+
+## Credits
+
+- Designed and developed as a personal portfolio template
+- Icons: [Font Awesome](https://fontawesome.com)
+- Fonts: [Google Fonts - Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
+## License
+
+This project is open source and available for personal or commercial use. Feel free to fork, modify, and use it as a starting point for your own portfolio!
+
+© 2026 Mahmudul - All rights reserved.
