@@ -33,14 +33,14 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 
 ## Project Structure
  - project-root/
-├── index.html          # Main HTML file
+├── index.html          
 ├── styles/
-│   └── style.css       # All custom styles
+│   └── style.css      
 ├── Assets/
-│   ├── wc-mini.png     # Preview image for action section
-│   ├── wc-big.png      # Large image for focus/hero section
-│   └── avatar.png      # User avatar for reviews (used multiple times)
-└── README.md           # This file
+│   ├── wc-mini.png     
+│   ├── wc-big.png      
+│   └── avatar.png      
+└── README.md           
 
 
 ## How to Use
