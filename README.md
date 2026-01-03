@@ -32,7 +32,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 - Font Awesome (via CDN)
 
 ## Project Structure
-project-root/
+ - project-root/
 ├── index.html          # Main HTML file
 ├── styles/
 │   └── style.css       # All custom styles
