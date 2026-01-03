@@ -62,7 +62,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 
 ## Live Demo
 
-[Live Demo](https://abin0x.github.io/Hero-First-Assignment/)
+[Portfolio Website](https://abin0x.github.io/Hero-First-Assignment/)
 
 ## Credits
 
