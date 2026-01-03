@@ -33,7 +33,7 @@ The design uses a dark theme with modern aesthetics, ideal for personal portfoli
 
 ## Project Structure
  - project-root/
-├── index.html          
+ - ├── index.html          
 ├── styles/
 │   └── style.css      
 ├── Assets/
